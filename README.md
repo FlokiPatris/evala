@@ -16,7 +16,7 @@ Before proceeding, ensure you have installed:
 
 ## Installation Steps
 
-- git clone https://github.com/FlokiPatris/evRegistrationTest.git
+- git clone https://github.com/FlokiPatris/evala.git
 - cd evala-registration-tests
 - npm install
 - npx cypress open
