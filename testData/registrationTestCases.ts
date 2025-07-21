@@ -1,4 +1,4 @@
-import { RegistrationTestCase } from 'types/registrationInterface';
+import { RegistrationTestCase } from 'interfaces/registrationInterface';
 
 export const registrationTestCases: RegistrationTestCase[] = [
   {
