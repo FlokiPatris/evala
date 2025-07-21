@@ -20,6 +20,8 @@ Before proceeding, ensure you have installed:
 - cd evala
 - npm install
 - npx cypress open
+
+## Run Steps
 - Select e2e testing
 - Select a browser (Chrome, Firefox, Edge is supported)
 - In active specs tab select registration located in cypres\e2e
