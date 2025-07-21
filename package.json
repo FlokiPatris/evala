@@ -1,0 +1,13 @@
+{
+  "name": "registration-test-cypress",
+  "version": "1.0.0",
+  "description": "End-to-end tests for https://app.evala.cz using Cypress",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.5.0",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.2.0"
+  }
+}
